@@ -1,11 +1,14 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-    <body class="d-flex flex-column min-vh-100">
-    </body>
+    <div>
+        <li>
+            로그인
+        </li>
+    </div>
 </template>
 
 <script>
 export default {
-
+    
 }
 </script>
